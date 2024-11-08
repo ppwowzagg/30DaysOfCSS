@@ -17,7 +17,7 @@ span {
 
 @keyframes animate {
   0% {
-      color: white;
+      color: rgb(241, 144, 233);
   }
   50% {
       color: #f346238e;
